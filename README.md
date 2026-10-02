@@ -135,29 +135,35 @@ I work across two fields that usually live in separate teams: **mobile developme
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/esllamesso/Docdoc-App"><img src="./assets/projects/docdoc.jpg" alt="DocDoc — app screenshot" width="100%" /></a>
       <h3>🩺 <a href="https://github.com/esllamesso/Docdoc-App">DocDoc</a></h3>
-      <p>Doctor appointment app connected to a REST API — sign-up and login, medical specialties, doctor listings, a multi-step booking flow (time, appointment type, payment method, summary) and a personal appointments list.</p>
-      <sub>Flutter · Cubit · Dio · REST API</sub>
+      <p>Doctor appointment app on a REST API — sign-up and login, specialties and doctor listings, and a multi-step booking flow with a personal appointments list.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=D8C7AB" alt="Flutter" /> <img src="https://img.shields.io/badge/Cubit-111111?style=flat-square" alt="Cubit" /> <img src="https://img.shields.io/badge/Dio-111111?style=flat-square" alt="Dio" /> <img src="https://img.shields.io/badge/REST%20API-111111?style=flat-square" alt="REST API" /></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/esllamesso/firebase_app"><img src="./assets/projects/travella.jpg" alt="Travella — app screenshot" width="100%" /></a>
       <h3>✈️ <a href="https://github.com/esllamesso/firebase_app">Travella</a></h3>
       <p>Travel discovery app — browse places loaded from Firestore, with email/password and Google sign-in.</p>
-      <sub>Flutter · Bloc · Firebase Auth · Firestore</sub>
+      <p><img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=D8C7AB" alt="Flutter" /> <img src="https://img.shields.io/badge/Bloc-111111?style=flat-square" alt="Bloc" /> <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=D8C7AB" alt="Firebase" /> <img src="https://img.shields.io/badge/Google%20Sign--In-111111?style=flat-square&logo=google&logoColor=D8C7AB" alt="Google Sign-In" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/esllamesso/Movie-App"><img src="./assets/projects/streaming.jpg" alt="Streaming App — app screenshot" width="100%" /></a>
       <h3>🎬 <a href="https://github.com/esllamesso/Movie-App">Streaming App</a></h3>
       <p>Streaming-style movie app showing now-playing, popular and top-rated movies from the TMDB API, with movie detail pages.</p>
-      <sub>Flutter · Cubit · Dio · TMDB API · Lottie</sub>
+      <p><img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=D8C7AB" alt="Flutter" /> <img src="https://img.shields.io/badge/Cubit-111111?style=flat-square" alt="Cubit" /> <img src="https://img.shields.io/badge/Dio-111111?style=flat-square" alt="Dio" /> <img src="https://img.shields.io/badge/TMDB%20API-111111?style=flat-square&logo=themoviedatabase&logoColor=D8C7AB" alt="TMDB API" /> <img src="https://img.shields.io/badge/Lottie-111111?style=flat-square&logo=lottiefiles&logoColor=D8C7AB" alt="Lottie" /></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/esllamesso/Harry-Potter-LIB---App"><img src="./assets/projects/harry-potter.jpg" alt="Harry Potter Library — app screenshot" width="100%" /></a>
       <h3>📚 <a href="https://github.com/esllamesso/Harry-Potter-LIB---App">Harry Potter Library</a></h3>
       <p>Browse the Harry Potter books and characters — book search, favorites, random and top picks, with skeleton loading.</p>
-      <sub>Flutter · Bloc · Dio</sub>
+      <p><img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=D8C7AB" alt="Flutter" /> <img src="https://img.shields.io/badge/Bloc-111111?style=flat-square" alt="Bloc" /> <img src="https://img.shields.io/badge/Dio-111111?style=flat-square" alt="Dio" /> <img src="https://img.shields.io/badge/PotterAPI-111111?style=flat-square" alt="PotterAPI" /></p>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>Previews show each app's screenshot from its repository · click a card to open the repo</sub></p>
 
 <br/>
 
