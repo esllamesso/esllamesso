@@ -77,6 +77,7 @@ Based in Giza, Egypt.
 | Project | What it does | Built with |
 |---|---|---|
 | **[DocDoc](https://github.com/esllamesso/Docdoc-App)** | Doctor appointment app connected to a REST API — sign-up and login, medical specialties, doctor listings, a multi-step booking flow (time, appointment type, payment method, summary) and a personal appointments list. | Flutter · Cubit · Dio · REST API |
+| **[Travella](https://github.com/esllamesso/firebase_app)** | Travel discovery app — browse places loaded from Firestore, with email/password and Google sign-in. | Flutter · Bloc · Firebase Auth · Firestore |
 | **[Streaming App](https://github.com/esllamesso/Movie-App)** | Streaming-style movie app showing now-playing, popular and top-rated movies from the TMDB API, with movie detail pages. | Flutter · Cubit · Dio · TMDB API · Lottie |
 | **[Harry Potter Library](https://github.com/esllamesso/Harry-Potter-LIB---App)** | Browse the Harry Potter books and characters — book search, favorites, random and top picks, with skeleton loading. | Flutter · Bloc · Dio |
 
